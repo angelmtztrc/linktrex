@@ -1,0 +1,28 @@
+{
+  "user": {
+    "username": "angelmtztrc",
+    "position": "JavaScript Developer"
+  },
+  "links": [
+    {
+      "icon": "IconBrandGithub",
+      "name": "Github",
+      "url": "https://github.com/angelmtztrc"
+    },
+    {
+      "icon": "IconBrandLinkedin",
+      "name": "LinkedIn",
+      "url": "https://linkedin/angelmtztrc"
+    },
+    {
+      "icon": "IconBrandTwitter",
+      "name": "Twitter",
+      "url": "https://twitter/angelmtztrc"
+    },
+    {
+      "icon": "IconBrandInstagram",
+      "name": "Instagram",
+      "url": "https://instagram/angelmtz.trc"
+    }
+  ]
+}
